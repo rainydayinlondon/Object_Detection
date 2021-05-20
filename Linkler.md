@@ -1,6 +1,9 @@
 # Object_Detection
 
 
+https://towardsdatascience.com/faster-rcnn-object-detection-f865e5ed7fc4#:~:text=Faster%20RCNN%20is%20an%20object,SSD%20(%20Single%20Shot%20Detector).
+
+
 FASTER RCNN Makale'ye ekleyebileceğin linkler : (Faster RCNN Yapısı ile igili.)
 https://dongjk.github.io/code/object+detection/keras/2018/05/21/Faster_R-CNN_step_by_step,_Part_I.html
 https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/
