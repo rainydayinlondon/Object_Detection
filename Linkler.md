@@ -17,3 +17,20 @@ https://franky07724-57962.medium.com/using-keras-pre-trained-models-for-feature-
 
 
 https://learnopencv.com/keras-tutorial-transfer-learning-using-pre-trained-models/
+
+
+TENSORBOARD GRAFİKLER
+https://stackoverflow.com/questions/48111847/tensorflow-object-detection-api-what-do-the-losses-mean-in-the-object-detectio
+
+
+The losses for the Region Proposal Network:
+
+Loss/RPNLoss/localization_loss/mul_1: Localization Loss or the Loss of the Bounding Box regressor for the RPN
+
+Loss/RPNLoss/objectness_loss/mul_1: Loss of the Classifier that classifies if a bounding box is an object of interest or background
+
+The losses for the Final Classifier:
+
+Loss/BoxClassifierLoss/classification_loss/mul_1: Loss for the classification of detected objects into various classes: Cat, Dog, Airplane etc
+
+Loss/BoxClassifierLoss/localization_loss/mul_1: Localization Loss or the Loss of the Bounding Box regressor
