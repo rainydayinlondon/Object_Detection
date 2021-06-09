@@ -23,6 +23,8 @@ TENSORBOARD GRAFİKLER
 https://stackoverflow.com/questions/48111847/tensorflow-object-detection-api-what-do-the-losses-mean-in-the-object-detectio
 
 
+https://luminoth.readthedocs.io/en/latest/tutorial/04-visualizing-the-training-process.html
+
 The losses for the Region Proposal Network:
 
 Loss/RPNLoss/localization_loss/mul_1: Localization Loss or the Loss of the Bounding Box regressor for the RPN
